@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HTMLHelper", "01_HTMLHelper\01_HTMLHelper.csproj", "{40D5C2B0-E0C4-4A27-9E2D-1BFD58180528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_PartialView", "02_PartialView\02_PartialView.csproj", "{F207A656-DB36-4B81-BF1A-B7FFEB2842DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D5C2B0-E0C4-4A27-9E2D-1BFD58180528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D5C2B0-E0C4-4A27-9E2D-1BFD58180528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D5C2B0-E0C4-4A27-9E2D-1BFD58180528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D5C2B0-E0C4-4A27-9E2D-1BFD58180528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F207A656-DB36-4B81-BF1A-B7FFEB2842DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F207A656-DB36-4B81-BF1A-B7FFEB2842DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F207A656-DB36-4B81-BF1A-B7FFEB2842DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F207A656-DB36-4B81-BF1A-B7FFEB2842DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63B579E-288C-4248-8190-E73AFFAC0296}
+	EndGlobalSection
+EndGlobal
